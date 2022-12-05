@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allennguyen01&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/allennguyen01)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=allennguyen01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
