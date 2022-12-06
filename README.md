@@ -1,6 +1,6 @@
 👋 Hi I’m @allennguyen01  
-👀 I’m interested in web developement, game development, AI, and everything involving technology  
-🌱 I’m studying computer engineering at UBC in Vancouver, Canada  
+👀 I’m interested in web development, game development, AI, and everything involving technology  
+🌱 I’m studying Computer Engineering at UBC in Vancouver, Canada  
 💞️ I’m currently learning web development and databases  
 📫 How to reach me https://www.linkedin.com/in/allendnguyen/ or allennguyen415@gmail.com  
 
